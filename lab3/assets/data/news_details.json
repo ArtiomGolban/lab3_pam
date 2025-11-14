@@ -1,0 +1,146 @@
+{
+  "publishers": [
+    {
+      "publisher": {
+        "username": "forbesnews",
+        "name": "Forbes",
+        "verified": true,
+        "logo": "https://cdn.worldvectorlogo.com/logos/forbes-2.svg",
+        "bio": "Empowering your business journey with expert insights and influential perspectives.",
+        "stats": {
+          "news_count": "6.8k",
+          "followers": "2.5k",
+          "following": 100
+        },
+        "is_following": false
+      },
+      "filters": {
+        "sort_by": [
+          "Newest",
+          "Oldest",
+          "Most Popular"
+        ],
+        "active_sort": "Newest",
+        "view_mode": "list"
+      },
+      "news": [
+        {
+          "id": 301,
+          "title": "Tech Startup Secures $50 Million Funding for Expansion",
+          "category": "Business",
+          "date": "Jun 11, 2023",
+          "publisher": "Forbes",
+          "publisher_verified": true,
+          "image": "https://t4.ftcdn.net/jpg/03/00/14/39/360_F_300143961_8kJTPiTbWallCIBxO0GQzoxgwE9cIRGG.jpg",
+          "stats": {
+            "likes": 1240,
+            "comments": 98,
+            "shares": 56
+          },
+          "is_bookmarked": false
+        },
+        {
+          "id": 302,
+          "title": "Global CEOs Predict Market Growth in 2024",
+          "category": "Finance",
+          "date": "Jun 10, 2023",
+          "publisher": "Forbes",
+          "publisher_verified": true,
+          "image": "https://cdn.pixabay.com/photo/2018/02/08/10/22/desk-3139127_1280.jpg",
+          "stats": {
+            "likes": 980,
+            "comments": 76,
+            "shares": 40
+          },
+          "is_bookmarked": true
+        },
+        {
+          "id": 303,
+          "title": "How Small Businesses Are Adapting to AI",
+          "category": "Technology",
+          "date": "May 28, 2023",
+          "publisher": "Forbes",
+          "publisher_verified": true,
+          "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+          "stats": {
+            "likes": 540,
+            "comments": 32,
+            "shares": 12
+          },
+          "is_bookmarked": false
+        }
+      ]
+    },
+    {
+      "publisher": {
+        "username": "bloomberg",
+        "name": "Bloomberg",
+        "verified": true,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bloomberg_logo.svg",
+        "bio": "Global business and financial news, data and analysis — helping professionals make smarter decisions.",
+        "stats": {
+          "news_count": "12.3k",
+          "followers": "6.1k",
+          "following": 210
+        },
+        "is_following": true
+      },
+      "filters": {
+        "sort_by": [
+          "Newest",
+          "Oldest",
+          "Most Popular"
+        ],
+        "active_sort": "Newest",
+        "view_mode": "list"
+      },
+      "news": [
+        {
+          "id": 401,
+          "title": "Global Markets Rally as Inflation Shows Signs of Cooling",
+          "category": "Finance",
+          "date": "Jun 10, 2023",
+          "publisher": "Bloomberg",
+          "publisher_verified": true,
+          "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg",
+          "stats": {
+            "likes": 2140,
+            "comments": 189,
+            "shares": 120
+          },
+          "is_bookmarked": false
+        },
+        {
+          "id": 402,
+          "title": "Inside the Race for a Greener Supply Chain",
+          "category": "Business",
+          "date": "Jun 7, 2023",
+          "publisher": "Bloomberg",
+          "publisher_verified": true,
+          "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg",
+          "stats": {
+            "likes": 860,
+            "comments": 64,
+            "shares": 30
+          },
+          "is_bookmarked": false
+        },
+        {
+          "id": 403,
+          "title": "Tech Stocks Slide After Mixed Earnings Reports",
+          "category": "Technology",
+          "date": "May 30, 2023",
+          "publisher": "Bloomberg",
+          "publisher_verified": true,
+          "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
+          "stats": {
+            "likes": 720,
+            "comments": 52,
+            "shares": 23
+          },
+          "is_bookmarked": true
+        }
+      ]
+    }
+  ]
+}
